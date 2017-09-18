@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:constantSize="true"
+    android:dither="true"
+    android:variablePadding="false">
+    <item
+        android:drawable="@mipmap/aa"
+        android:maxLevel="0"/>
+
+    <item
+        android:drawable="@mipmap/bb"
+        android:maxLevel="1"/>
+
+</level-list>
